@@ -1,42 +1,134 @@
-# Hi, I�m Arpit Saggar ??
+﻿# 👋 Hi, I’m Arpit Saggar
 
 <!--LAST_UPDATED-->Not updated yet<!--/LAST_UPDATED-->
 
-I�m a software engineer who loves building systems and pipelines for data and backend services, and sharing what I learn.
+💻 I’m a software engineer who loves building **data pipelines**, **backend systems**, and **automation**, and sharing what I learn along the way.
 
-- ?? I�m currently working on: building data pipelines and open-source experiments
-- ?? I�m learning: Kafka, PySpark, and Transformers
-- ?? I�m open to collaborating on: web apps, data engineering projects, and automation
-- ?? How to reach me: Email me at asaggar_be24@thapar.edu
+- 🔭 **Currently working on:** data pipelines and open-source experiments  
+- 🌱 **Currently learning:** Kafka, PySpark, Transformers  
+- 👯 **Open to collaborating on:** web apps, data engineering projects, automation  
+- 📫 **Reach me at:** asaggar_be24@thapar.edu  
 
-## ?? Tech & Tools
-- Languages: Python, C++, JavaScript
-- Backend, data & infra: Kafka, PySpark, Node.js, Express
-- ML / Data science: Transformers, scikit-learn, pandas
-- Frontend: React, Next.js
-- DevOps: Docker, GitHub Actions, Git
-- Databases: PostgreSQL, MongoDB
+---
 
-## ?? Pinned projects
-- [repo-analytics](https://github.com/ArpitSaggar/repo-analytics) � analytics pipeline for repo metrics (Kafka + PySpark)
-- [stream-processor](https://github.com/ArpitSaggar/stream-processor) � event stream processing with PySpark
-- [portfolio](https://github.com/ArpitSaggar/portfolio) � personal website built with Next.js
-- [utils](https://github.com/ArpitSaggar/utils) � useful helper libraries and scripts
+## 🧑‍💻 About Me
+I enjoy solving problems at the intersection of **data**, **systems**, and **infrastructure**.  
+My interests span from real-time streaming systems to production-ready ML pipelines.
 
-## ?? GitHub Stats
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitSaggar&show_icons=true&theme=onedark)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitSaggar&layout=compact&theme=onedark)
+## 🛠️ Tech & Tools
+- **Languages:** Python, C++, JavaScript  
+- **Backend / Data / Infra:** Kafka, PySpark, Node.js, Express  
+- **ML / Data Science:** Transformers, scikit-learn, pandas  
+- **Frontend:** React, Next.js  
+- **DevOps:** Docker, GitHub Actions, Git  
+- **Databases:** PostgreSQL, MongoDB  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArpitSaggar&theme=dark&hide_border=true)
+---
 
-## ?? Now playing (Spotify)
-![Spotify Now Playing](./.github/generated/spotify_now_playing.svg)
+## 📌 Featured Projects
+- **repo-analytics** — analytics pipeline for repo metrics (Kafka + PySpark)  
+- **stream-processor** — real-time event processing with PySpark  
+- **portfolio** — personal website built using Next.js  
+- **utils** — reusable scripts and helper libraries  
 
-## ?? Activity graph
+---
+
+## 🐍 Contribution Activity
 ![Contribution Snake](./.github/generated/snake-dark.svg)
 
 ---
 
+## 🎧 Spotify — Now Playing
+![Spotify Now Playing](./.github/generated/spotify_now_playing.svg)
 
+---
 
+## 📝 Writing & Blogs
+- *Building reliable Kafka pipelines*  
+- *Scaling PySpark jobs in production*  
+
+---
+
+## 🎤 Talks & Presentations
+- **Real-time streaming for practical analytics** — PyData Local  
+- **Operationalizing Transformers** — Developer Meetup  
+
+---
+
+## 🎓 Certifications
+- **Certified Data Engineer** — Example Institute  
+
+@'
+# 👋 Hi, I’m Arpit Saggar
+
+<!--LAST_UPDATED-->Not updated yet<!--/LAST_UPDATED-->
+
+💻 I’m a software engineer who loves building **data pipelines**, **backend systems**, and **automation**, and sharing what I learn along the way.
+
+- 🔭 **Currently working on:** data pipelines and open-source experiments  
+- 🌱 **Currently learning:** Kafka, PySpark, Transformers  
+- 👯 **Open to collaborating on:** web apps, data engineering projects, automation  
+- 📫 **Reach me at:** asaggar_be24@thapar.edu  
+
+---
+
+## 🧑‍💻 About Me
+I enjoy solving problems at the intersection of **data**, **systems**, and **infrastructure**.  
+My interests span from real-time streaming systems to production-ready ML pipelines.
+
+---
+
+## 🛠️ Tech & Tools
+- **Languages:** Python, C++, JavaScript  
+- **Backend / Data / Infra:** Kafka, PySpark, Node.js, Express  
+- **ML / Data Science:** Transformers, scikit-learn, pandas  
+- **Frontend:** React, Next.js  
+- **DevOps:** Docker, GitHub Actions, Git  
+- **Databases:** PostgreSQL, MongoDB  
+
+---
+
+## 📌 Featured Projects
+- **repo-analytics** — analytics pipeline for repo metrics (Kafka + PySpark)  
+- **stream-processor** — real-time event processing with PySpark  
+- **portfolio** — personal website built using Next.js  
+- **utils** — reusable scripts and helper libraries  
+
+---
+
+## 🐍 Contribution Activity
+![Contribution Snake](./.github/generated/snake-dark.svg)
+
+---
+
+## 🎧 Spotify — Now Playing
+![Spotify Now Playing](./.github/generated/spotify_now_playing.svg)
+
+---
+
+## 📝 Writing & Blogs
+- *Building reliable Kafka pipelines*  
+- *Scaling PySpark jobs in production*  
+
+---
+
+## 🎤 Talks & Presentations
+- **Real-time streaming for practical analytics** — PyData Local  
+- **Operationalizing Transformers** — Developer Meetup  
+
+---
+
+## 🎓 Certifications
+- **Certified Data Engineer** — Example Institute  
+- **Cloud Practitioner** — Example Cloud  
+
+---
+
+## ⏳ Timeline
+- **2022:** Data Engineering Internship  
+- **2023:** Open-source streaming projects  
+- **2024:** Focus on production ML & scalable data systems  
+
+---

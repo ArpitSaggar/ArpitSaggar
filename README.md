@@ -34,8 +34,9 @@ I’m a software engineer who loves building systems and pipelines for data and ba
 ![Spotify Now Playing](./.github/generated/spotify_now_playing.svg)
 
 ## ?? Activity graph
-![Contribution Snake](https://contrib.rocks/image?user=ArpitSaggar&theme=github-dark&mode=snake)
+![Contribution Snake](./.github/generated/snake-dark.svg)
 
 ---
+
 
 

@@ -1,0 +1,25 @@
+﻿name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ArpitSaggar
+          outputs: |
+            .github/generated/snake.svg
+            .github/generated/snake-dark.svg?palette=github-dark
+
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update contribution snake"
+          add: ".github/generated"

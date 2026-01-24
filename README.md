@@ -43,18 +43,6 @@ My interests span from real-time streaming systems to production-ready ML pipeli
 
 ---
 
-## 📝 Writing & Blogs
-- *Building reliable Kafka pipelines*  
-- *Scaling PySpark jobs in production*  
-
----
-
-## 🎤 Talks & Presentations
-- **Real-time streaming for practical analytics** — PyData Local  
-- **Operationalizing Transformers** — Developer Meetup  
-
----
-
 ## 🎓 Certifications
 - **Certified Data Engineer** — Example Institute  
 - **Cloud Practitioner** — Example Cloud  

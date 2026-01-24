@@ -16,7 +16,7 @@
 <p align="center">
   <img src="./assets/coding.png" alt="Coding illustration" width="400"/>
 </p>
-I enjoy solving problems at the intersection of **data**, **systems**, and **infrastructure**.  
+I enjoy solving problems at the intersection of data, systems, and infrastructure.  
 My interests span from real-time streaming systems to production-ready ML pipelines.
 
 ---

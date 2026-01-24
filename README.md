@@ -1,4 +1,7 @@
-﻿# 👋 Hi, I’m Arpit Saggar
+﻿<p align="center">
+  <img src="./assets/Banner.png" alt="Profile banner" width="850"/>
+</p>
+# 👋 Hi, I’m Arpit Saggar
 
 💻 I’m a software engineer who loves building **data pipelines**, **backend systems**, and **automation**, and sharing what I learn along the way.
 
@@ -10,6 +13,9 @@
 ---
 
 ## 🧑‍💻 About Me
+<p align="center">
+  <img src="./assets/coding.png" alt="Coding illustration" width="400"/>
+</p>
 I enjoy solving problems at the intersection of **data**, **systems**, and **infrastructure**.  
 My interests span from real-time streaming systems to production-ready ML pipelines.
 

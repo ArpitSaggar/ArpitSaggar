@@ -1,7 +1,5 @@
 ﻿# 👋 Hi, I’m Arpit Saggar
 
-<!--LAST_UPDATED-->Not updated yet<!--/LAST_UPDATED-->
-
 💻 I’m a software engineer who loves building **data pipelines**, **backend systems**, and **automation**, and sharing what I learn along the way.
 
 - 🔭 **Currently working on:** data pipelines and open-source experiments  

@@ -1,0 +1,13 @@
+﻿name: Spotify Now Playing
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder
+        run: echo "Workflow will be enabled after secrets are added"

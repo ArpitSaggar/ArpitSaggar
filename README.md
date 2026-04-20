@@ -47,17 +47,12 @@ My interests span from real-time streaming systems to production-ready ML pipeli
 ## 🎧 Spotify — Now Playing
 ![Spotify Now Playing](./.github/generated/spotify_now_playing.svg)
 
----
-
-## 🎓 Certifications
-- **Certified Data Engineer** — Example Institute  
-- **Cloud Practitioner** — Example Cloud  
 
 ---
 
 ## ⏳ Timeline
-- **2022:** Data Engineering Internship  
-- **2023:** Open-source streaming projects  
-- **2024:** Focus on production ML & scalable data systems  
+- **2025:** Data Engineering Internship  
+- **2026:** Open-source streaming projects  
+- **2027:** Focus on production ML & scalable data systems  
 
 ---

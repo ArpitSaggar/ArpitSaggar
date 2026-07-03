@@ -1,18 +1,18 @@
 ﻿<p align="center">
   <img src="./assets/Banner.png" alt="Profile banner" width="850"/>
 </p>
-# 👋 Hi, I’m Arpit Saggar
+# Hi, I’m Arpit Saggar
 
-💻 I’m a software engineer who loves building **data pipelines**, **backend systems**, and **automation**, and sharing what I learn along the way.
+I’m a software engineer who loves building **data pipelines**, **backend systems**, and **automation**, and sharing what I learn along the way.
 
-- 🔭 **Currently working on:** data pipelines and open-source experiments  
-- 🌱 **Currently learning:** Kafka, PySpark, Transformers  
-- 👯 **Open to collaborating on:** web apps, data engineering projects, automation  
-- 📫 **Reach me at:** asaggar_be24@thapar.edu  
+- **Currently working on:** data pipelines and open-source experiments  
+- **Currently learning:** Kafka, PySpark, Transformers  
+- **Open to collaborating on:** web apps, data engineering projects, automation  
+- **Reach me at:** asaggar_be24@thapar.edu  
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 <p align="center">
   <img src="./assets/coding.png" alt="Coding illustration" width="400"/>
 </p>
@@ -31,15 +31,7 @@ My interests span from real-time streaming systems to production-ready ML pipeli
 
 ---
 
-## 📌 Featured Projects
-- **repo-analytics** — analytics pipeline for repo metrics (Kafka + PySpark)  
-- **stream-processor** — real-time event processing with PySpark  
-- **portfolio** — personal website built using Next.js  
-- **utils** — reusable scripts and helper libraries  
-
----
-
-## 🐍 Contribution Activity
+## Contribution Activity
 ![Contribution Snake](./.github/generated/snake-dark.svg)
 
 ---

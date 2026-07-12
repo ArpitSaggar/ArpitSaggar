@@ -1,7 +1,7 @@
 ﻿<p align="center">
   <img src="./assets/Banner.png" alt="Profile banner" width="850"/>
 </p>
-# Hi, I’m Arpit Saggar
+ Hi, I’m Arpit Saggar
 
 I’m a software engineer who loves building **data pipelines**, **backend systems**, and **automation**, and sharing what I learn along the way.
 
